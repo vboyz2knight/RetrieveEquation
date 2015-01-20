@@ -1,0 +1,14 @@
+C:\Hieu\Demo2015_1\RetrieveEquation\bin\Debug\RetrieveEquation.dll
+C:\Hieu\Demo2015_1\RetrieveEquation\bin\Debug\RetrieveEquation.pdb
+C:\Hieu\Demo2015_1\RetrieveEquation\obj\Debug\RetrieveEquation.dll
+C:\Hieu\Demo2015_1\RetrieveEquation\obj\Debug\RetrieveEquation.pdb
+C:\Hieu\VS2013\Demo2015_1\RetrieveEquation\bin\Debug\RetrieveEquation.dll
+C:\Hieu\VS2013\Demo2015_1\RetrieveEquation\bin\Debug\RetrieveEquation.pdb
+C:\Hieu\VS2013\Demo2015_1\RetrieveEquation\obj\Debug\RetrieveEquation.csprojResolveAssemblyReference.cache
+C:\Hieu\VS2013\Demo2015_1\RetrieveEquation\obj\Debug\RetrieveEquation.dll
+C:\Hieu\VS2013\Demo2015_1\RetrieveEquation\obj\Debug\RetrieveEquation.pdb
+C:\Projects\Demo2015_1\RetrieveEquation\bin\Debug\RetrieveEquation.dll
+C:\Projects\Demo2015_1\RetrieveEquation\bin\Debug\RetrieveEquation.pdb
+C:\Projects\Demo2015_1\RetrieveEquation\obj\Debug\RetrieveEquation.csprojResolveAssemblyReference.cache
+C:\Projects\Demo2015_1\RetrieveEquation\obj\Debug\RetrieveEquation.dll
+C:\Projects\Demo2015_1\RetrieveEquation\obj\Debug\RetrieveEquation.pdb

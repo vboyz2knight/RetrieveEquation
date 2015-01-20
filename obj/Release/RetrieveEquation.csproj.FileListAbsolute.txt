@@ -1,0 +1,4 @@
+C:\Projects\Demo2015_1\RetrieveEquation\bin\Release\RetrieveEquation.dll
+C:\Projects\Demo2015_1\RetrieveEquation\bin\Release\RetrieveEquation.pdb
+C:\Projects\Demo2015_1\RetrieveEquation\obj\Release\RetrieveEquation.dll
+C:\Projects\Demo2015_1\RetrieveEquation\obj\Release\RetrieveEquation.pdb
